@@ -1,0 +1,39 @@
+
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/* custom styles ------------------------------------- */
+
+.flickr-content img {
+    cursor: pointer;
+    border: 2px solid #ffffff;
+}
+
+.flickr-content img.active {
+    border: 2px solid #ff0000;
+    opacity: 0.5;
+}
+
+.flickr-content > div {
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
